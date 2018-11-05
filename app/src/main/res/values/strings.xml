@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Inciar Sesión</string>
+    <string name="app_name2">Inciar Sesión</string>
+
+    <string name="titulo"> Bienvenido</string>
+    <string name="subtitulo">Iniciar sesión</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="nick">Nombre de Usuario</string>
+    <string name="titulo2"> Ingrese sus datos</string>
+    <string name="pass">¿Necesita registrarse? click aquí</string>
+    <string name="pass2">Confirmar Contraseña</string>
+    <string name="terminos">Acepto términos y condiciones</string>
+
+
+</resources>
